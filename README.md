@@ -1,4 +1,6 @@
 ### Hi there 👋
+im mrclogsworthyt
+here is a bit of data hehe
 <a href="https://github.com/MrClogsworthYT">
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MrClogsworthYT" alt="Profile Views Count">
@@ -11,5 +13,6 @@
 
 <h2 align="center">Hey!</h2>
 
+funfact: amogus is more popular than fnf
 currently learning haxe and python and c and cpp and c# 
 fnf coder
