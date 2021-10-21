@@ -1,16 +1,15 @@
 ### Hi there 👋
+<a href="https://github.com/MrClogsworthYT">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MrClogsworthYT" alt="Profile Views Count">
+</p>
+</a>
 
-<!--
-**MrClogsworthYT/MrClogsworthYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=MrClogsworthYT&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+</p>
 
-Here are some ideas to get you started:
+<h2 align="center">Hey!</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+currently learning haxe and python and c and cpp and c# 
+fnf coder
