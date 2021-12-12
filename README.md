@@ -14,5 +14,6 @@ here is a bit of data hehe
 <h2 align="center">Hey!</h2>
 
 funfact: amogus is more popular than fnf
-currently learning haxe and python and c and cpp and c# 
-fnf coder
+13 year old
+currently learning haxeflixel heaps and others
+programmer
