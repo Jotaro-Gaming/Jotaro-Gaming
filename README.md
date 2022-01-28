@@ -15,5 +15,4 @@ here is a bit of data hehe
 
 13 year old
 programmer (i mean thats obvious thats why i have git)
-currently learning haxeflixel and tryna learn c++ c c# and python but i hsvent started learing those so i can only pro
-gramme haxeflixel and scratch stuff
+currently learning haxeflixel and tryna learn c++ c c# and python but i havent started learning those so i can only program haxeflixel and scratch stuff
