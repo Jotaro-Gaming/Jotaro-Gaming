@@ -13,7 +13,7 @@ here is a bit of data hehe
 
 <h2 align="center">Hey!</h2>
 
-funfact: amogus is more popular than fnf
 13 year old
-currently learning haxeflixel heaps and others
-programmer
+programmer (i mean thats obvious thats why i have git)
+currently learning haxeflixel and tryna learn c++ c c# and python but i hsvent started learing those so i can only pro
+gramme haxeflixel and scratch stuff
