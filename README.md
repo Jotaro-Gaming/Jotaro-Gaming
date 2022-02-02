@@ -23,4 +23,4 @@ Im MrClogsworthYT a 13-year-old programmer
 
 # and!
 
-[![Scratch](https://en.scratch-wiki.info/w/images/Logo.png)](scratch.mit.edu)
+[![Scratch](https://en.scratch-wiki.info/w/images/Logo.png)](https://scratch.mit.edu)
