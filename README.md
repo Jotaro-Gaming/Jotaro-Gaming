@@ -12,16 +12,11 @@ Im MrClogsworthYT a 13-year-old programmer
 
 <h2 align="center">Hey!</h2>
 
-## what im currently learning:
+## what im currently learning (and can code):
 
 [![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)](https://python.org)
 [![HaxeFlixel](https://avatars.githubusercontent.com/u/4309553?s=100&v=4)](https://haxeflixel.com/)
 
-## what i can currently code in:
-
-[![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)](https://python.org)
-[![HaxeFlixel](https://avatars.githubusercontent.com/u/4309553?s=100&v=4)](https://haxeflixel.com)
-
-# and!
+## what i can currently code in (perfectly):
 
 [![Scratch](https://en.scratch-wiki.info/w/images/Logo.png)](https://scratch.mit.edu)
