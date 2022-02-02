@@ -1,6 +1,5 @@
 ### Hi there 👋
-im mrclogsworthyt
-here is a bit of data hehe
+Im MrClogsworthYT a 13-year-old programmer
 <a href="https://github.com/MrClogsworthYT">
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MrClogsworthYT" alt="Profile Views Count">
@@ -13,6 +12,15 @@ here is a bit of data hehe
 
 <h2 align="center">Hey!</h2>
 
-13 year old
-programmer (i mean thats obvious thats why i have git)
-currently learning haxeflixel and tryna learn c++ c c# and python but i havent started learning those so i can only program haxeflixel and scratch stuff
+## what im currently learning:
+
+[![HaxeFlixel](https://avatars.githubusercontent.com/u/4309553?s=100&v=4)](https://haxeflixel.com/)
+
+## what i can currently code in:
+
+[![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)](https://python.org)
+[![HaxeFlixel](https://avatars.githubusercontent.com/u/4309553?s=100&v=4)](https://haxeflixel.com)
+
+# and!
+
+[![Scratch](https://en.scratch-wiki.info/w/images/Logo.png)](scratch.mit.edu)
