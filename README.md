@@ -14,6 +14,7 @@ Im MrClogsworthYT a 13-year-old programmer
 
 ## what im currently learning:
 
+[![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)](https://python.org)
 [![HaxeFlixel](https://avatars.githubusercontent.com/u/4309553?s=100&v=4)](https://haxeflixel.com/)
 
 ## what i can currently code in:
