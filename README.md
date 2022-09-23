@@ -7,7 +7,7 @@ Im Jotaro Gaming call me Jot for short a 14-year-old programmer
 </a>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=Jotaro-GamingT&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=Jotaro-Gaming&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
 </p>
 
 <h2 align="center">Hey!</h2>
